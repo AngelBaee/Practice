@@ -1,2 +1,2 @@
 # Practice
- classes, objects,merthods
+ classes, objects,methods
